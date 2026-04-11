@@ -1,0 +1,14 @@
+streamlit
+pandas
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-huggingface
+faiss-cpu
+pypdf
+pymupdf
+sentence-transformers
+transformers
+torch
+openpyxl
